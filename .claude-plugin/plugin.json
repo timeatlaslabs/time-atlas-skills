@@ -1,0 +1,20 @@
+{
+  "name": "time-atlas",
+  "version": "1.0.0",
+  "description": "Ask about your life as recorded by the Time Atlas app — places, trips, activity, sleep, notes, weather — and add notes to your journal.",
+  "author": {
+    "name": "Time Atlas Labs",
+    "url": "https://timeatlas.app"
+  },
+  "homepage": "https://timeatlas.app",
+  "repository": "https://github.com/timeatlaslabs/time-atlas-skills",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.timeatlaslabs.com/legal/privacynotice.html",
+  "keywords": [
+    "time-atlas",
+    "life-tracker",
+    "journal",
+    "personal-data",
+    "mcp"
+  ]
+}

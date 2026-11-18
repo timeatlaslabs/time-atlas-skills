@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "time-atlas": {
+      "type": "http",
+      "url": "https://ai.timeatlas.app/mcp"
+    }
+  }
+}

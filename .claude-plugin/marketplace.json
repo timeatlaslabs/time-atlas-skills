@@ -1,0 +1,17 @@
+{
+  "name": "time-atlas",
+  "owner": {
+    "name": "Time Atlas Labs",
+    "url": "https://timeatlas.app"
+  },
+  "metadata": {
+    "description": "Time Atlas plugins: ask about your life as recorded by the Time Atlas app."
+  },
+  "plugins": [
+    {
+      "name": "time-atlas",
+      "source": "./",
+      "description": "Ask about your life as recorded by the Time Atlas app, and add notes to your journal."
+    }
+  ]
+}
