@@ -14,7 +14,7 @@ ask about that record.
 
 Everything lives on the user's iPhone. The MCP server only relays: each
 tool call reaches the app, which answers from its own database. The user
-needs the app installed and set up:
+needs the app installed and set up, version 1.6.2 or newer:
 [Time Atlas on the App Store](https://apps.apple.com/us/app/time-atlas-life-tracker/id6738783076).
 
 ## Connecting
@@ -57,11 +57,6 @@ It is the only thing to enter: there is no account or password.
   only; see OpenAI's help for the current menus.
 - **Other MCP clients:** any client that supports remote servers with OAuth
   (dynamic client registration, PKCE) works with the same URL.
-
-Where a browser cannot be opened for signing in (for example an agent on a
-server), a connection URL with a password can be used instead: the user
-can find both in the app's MCP connection settings. Send the password as
-`Authorization: Bearer <password>`.
 
 ## Using the tools
 

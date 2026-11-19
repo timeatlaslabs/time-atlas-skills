@@ -7,6 +7,7 @@ journal.
 
 Time Atlas is an iPhone app:
 [download it on the App Store](https://apps.apple.com/us/app/time-atlas-life-tracker/id6738783076).
+Version 1.6.2 or newer is required.
 Your data stays on your phone; the MCP server relays each question to the
 app.
 
